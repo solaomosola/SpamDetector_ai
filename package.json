@@ -1,0 +1,28 @@
+{
+  "name": "spamdetector_ai",
+  "version": "1.0.0",
+  "description": "Using javascript for machine language",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solaomosola/SpamDetector_ai.git"
+  },
+  "keywords": [
+    "Machine",
+    "learning",
+    "js",
+    "brainjs"
+  ],
+  "author": "Olusola Omosola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solaomosola/SpamDetector_ai/issues"
+  },
+  "homepage": "https://github.com/solaomosola/SpamDetector_ai#readme",
+  "dependencies": {
+    "brainjs": "^0.7.4"
+  }
+}
